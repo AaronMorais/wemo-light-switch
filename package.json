@@ -1,0 +1,23 @@
+{
+  "name": "wemo-light-switch",
+  "version": "1.0.0",
+  "description": "Control a Wemo Switch with a Wemo Light Switch ",
+  "main": "app.js",
+  "dependencies": {
+    "wemo-client": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronMorais/wemo-light-switch.git"
+  },
+  "author": "Aaron Morais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronMorais/wemo-light-switch/issues"
+  },
+  "homepage": "https://github.com/AaronMorais/wemo-light-switch#readme"
+}
